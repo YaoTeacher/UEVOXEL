@@ -1,0 +1,1213 @@
+Begin Object Class=/Script/UMG.Border Name="BatchModifyPanel" ExportPath="/Script/UMG.Border'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.BatchModifyPanel'"
+   Begin Object Class=/Script/UMG.BorderSlot Name="BorderSlot_0" ExportPath="/Script/UMG.BorderSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.BatchModifyPanel.BorderSlot_0'"
+   End Object
+   Begin Object Name="BorderSlot_0" ExportPath="/Script/UMG.BorderSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.BatchModifyPanel.BorderSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      VerticalAlignment=VAlign_Top
+      Parent="/Script/UMG.Border'BatchModifyPanel'"
+      Content="/Script/UMG.VerticalBox'VerticalBox_94'"
+   End Object
+   VerticalAlignment=VAlign_Top
+   Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+   BrushColor=(R=0.746000,G=0.750000,B=0.680123,A=1.000000)
+   Slots(0)="/Script/UMG.BorderSlot'BorderSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="BatchModifyPanel"
+End Object
+Begin Object Class=/Script/UMGEditor.WidgetSlotPair Name="WidgetSlotPair_0" ExportPath="/Script/UMGEditor.WidgetSlotPair'/Engine/Transient.WidgetSlotPair_0'"
+   WidgetName="BatchModifyPanel"
+End Object
+Begin Object Class=/Script/UMG.VerticalBox Name="VerticalBox_94" ExportPath="/Script/UMG.VerticalBox'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_94'"
+   Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_5" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_94.VerticalBoxSlot_5'"
+   End Object
+   Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_0" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_94.VerticalBoxSlot_0'"
+   End Object
+   Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_1" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_94.VerticalBoxSlot_1'"
+   End Object
+   Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_7" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_94.VerticalBoxSlot_7'"
+   End Object
+   Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_8" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_94.VerticalBoxSlot_8'"
+   End Object
+   Begin Object Name="VerticalBoxSlot_5" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_94.VerticalBoxSlot_5'"
+      Padding=(Top=5.000000,Bottom=5.000000)
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.VerticalBox'VerticalBox_94'"
+      Content="/Script/UMG.HorizontalBox'CoreZBox'"
+   End Object
+   Begin Object Name="VerticalBoxSlot_0" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_94.VerticalBoxSlot_0'"
+      Size=(SizeRule=Fill)
+      Padding=(Left=5.000000,Top=5.000000,Right=5.000000,Bottom=5.000000)
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.VerticalBox'VerticalBox_94'"
+      Content="/Script/UMG.HorizontalBox'HorizontalBox_1'"
+   End Object
+   Begin Object Name="VerticalBoxSlot_1" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_94.VerticalBoxSlot_1'"
+      Padding=(Top=5.000000,Bottom=5.000000)
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.VerticalBox'VerticalBox_94'"
+      Content="/Script/UMG.HorizontalBox'XBox'"
+   End Object
+   Begin Object Name="VerticalBoxSlot_7" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_94.VerticalBoxSlot_7'"
+      Padding=(Top=5.000000,Bottom=5.000000)
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.VerticalBox'VerticalBox_94'"
+      Content="/Script/UMG.HorizontalBox'YBox'"
+   End Object
+   Begin Object Name="VerticalBoxSlot_8" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_94.VerticalBoxSlot_8'"
+      Padding=(Top=5.000000,Bottom=5.000000)
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.VerticalBox'VerticalBox_94'"
+      Content="/Script/UMG.HorizontalBox'ZBox'"
+   End Object
+   Slots(0)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_0'"
+   Slots(1)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_1'"
+   Slots(2)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_7'"
+   Slots(3)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_8'"
+   Slots(4)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_5'"
+   bExpandedInDesigner=True
+End Object
+Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_1" ExportPath="/Script/UMG.HorizontalBox'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.HorizontalBox_1'"
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_4" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_4'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_0'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_4" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_4'"
+      Parent="/Script/UMG.HorizontalBox'HorizontalBox_1'"
+      Content="/Script/UMG.TextBlock'VolumeText'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_0'"
+      Size=(SizeRule=Fill)
+      HorizontalAlignment=HAlign_Right
+      Parent="/Script/UMG.HorizontalBox'HorizontalBox_1'"
+      Content="/Script/UMG.HorizontalBox'XBox_1'"
+   End Object
+   Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_4'"
+   Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_0'"
+   bExpandedInDesigner=True
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="VolumeText" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VolumeText'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "60F69EAA4BCAE8C0D2186399D3272BD2", "+")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+   DisplayLabel="VolumeText"
+End Object
+Begin Object Class=/Script/UMG.HorizontalBox Name="XBox_1" ExportPath="/Script/UMG.HorizontalBox'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox_1'"
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_7" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox_1.HorizontalBoxSlot_7'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_12" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox_1.HorizontalBoxSlot_12'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_14" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox_1.HorizontalBoxSlot_14'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_4" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox_1.HorizontalBoxSlot_4'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox_1.HorizontalBoxSlot_1'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_7" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox_1.HorizontalBoxSlot_7'"
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'XBox_1'"
+      Content="/Script/UMG.Button'Multi10xButton'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_12" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox_1.HorizontalBoxSlot_12'"
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'XBox_1'"
+      Content="/Script/UMG.Button'Multi1xButton'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_14" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox_1.HorizontalBoxSlot_14'"
+      Padding=(Left=5.000000,Right=5.000000)
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'XBox_1'"
+      Content="/Script/UMG.Button'Multi2xButton'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_4" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox_1.HorizontalBoxSlot_4'"
+      Padding=(Left=5.000000,Right=5.000000)
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'XBox_1'"
+      Content="/Script/UMG.Button'Multi5xButton'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox_1.HorizontalBoxSlot_1'"
+      Parent="/Script/UMG.HorizontalBox'XBox_1'"
+      Content="/Script/UMG.TextBlock'MultiText'"
+   End Object
+   Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_1'"
+   Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_12'"
+   Slots(2)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_14'"
+   Slots(3)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_4'"
+   Slots(4)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_7'"
+   bExpandedInDesigner=True
+   DisplayLabel="XBox_1"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="MultiText" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.MultiText'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "60F69EAA4BCAE8C0D2186399D3272BD2", "+")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+   DisplayLabel="MultiText"
+End Object
+Begin Object Class=/Script/UMG.Button Name="Multi1xButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Multi1xButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Multi1xButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Multi1xButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'Multi1xButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_1'"
+   End Object
+   WidgetStyle=(NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="Multi1xButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_1" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_1'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "FF88F2EF45B30A99A00DC2BD4E321401", "x1")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+   DisplayLabel="TextBlock_1"
+End Object
+Begin Object Class=/Script/UMG.Button Name="Multi2xButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Multi2xButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Multi2xButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Multi2xButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      Parent="/Script/UMG.Button'Multi2xButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_18'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=24.000000,Y=24.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="Multi2xButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_18" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_18'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "00DD306F4605A2D183DD9BA383A16787", "x2")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.Button Name="Multi5xButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Multi5xButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Multi5xButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Multi5xButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'Multi5xButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_20'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="Multi5xButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_20" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_20'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "8188C4EC4536FD0CBF9252A377679642", "x5")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.Button Name="Multi10xButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Multi10xButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Multi10xButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Multi10xButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'Multi10xButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_21'"
+   End Object
+   WidgetStyle=(NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="Multi10xButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_21" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_21'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "D54DCF3147482B205DBA11AC1E82FA6C", "x10")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.HorizontalBox Name="XBox" ExportPath="/Script/UMG.HorizontalBox'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox'"
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_10" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox.HorizontalBoxSlot_10'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_5" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox.HorizontalBoxSlot_5'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_7" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox.HorizontalBoxSlot_7'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_4" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox.HorizontalBoxSlot_4'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_12" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox.HorizontalBoxSlot_12'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_14" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox.HorizontalBoxSlot_14'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_16" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox.HorizontalBoxSlot_16'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox.HorizontalBoxSlot_0'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_10" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox.HorizontalBoxSlot_10'"
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'XBox'"
+      Content="/Script/UMG.Border'Border'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_5" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox.HorizontalBoxSlot_5'"
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'XBox'"
+      Content="/Script/UMG.Border'Border_250'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_7" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox.HorizontalBoxSlot_7'"
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'XBox'"
+      Content="/Script/UMG.Button'XMaxAButton'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_4" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox.HorizontalBoxSlot_4'"
+      Padding=(Left=5.000000,Right=5.000000)
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'XBox'"
+      Content="/Script/UMG.Button'XMaxDButton'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_12" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox.HorizontalBoxSlot_12'"
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'XBox'"
+      Content="/Script/UMG.Button'XminAButton'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_14" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox.HorizontalBoxSlot_14'"
+      Padding=(Left=5.000000,Right=5.000000)
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'XBox'"
+      Content="/Script/UMG.Button'XminDButton'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_16" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox.HorizontalBoxSlot_16'"
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'XBox'"
+      Content="/Script/UMG.TextBlock'TextBlock_2'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XBox.HorizontalBoxSlot_0'"
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'XBox'"
+      Content="/Script/UMG.TextBlock'TextBlock_243'"
+   End Object
+   Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_16'"
+   Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_12'"
+   Slots(2)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_14'"
+   Slots(3)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_10'"
+   Slots(4)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_0'"
+   Slots(5)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_5'"
+   Slots(6)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_4'"
+   Slots(7)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_7'"
+   bExpandedInDesigner=True
+   DisplayLabel="XBox"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_2" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_2'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "678120634EEA5F52A480DEA973B09F68", "X : ")
+   ColorAndOpacity=(SpecifiedColor=(R=0.000000,G=0.000000,B=0.000000,A=1.000000))
+   Font=(Size=12.000000)
+End Object
+Begin Object Class=/Script/UMG.Button Name="XminAButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XminAButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XminAButton.ButtonSlot_0'"
+   End Object
+   Begin Object Class=/Script/UMG.SlateAccessibleWidgetData Name="SlateAccessibleWidgetData_1" ExportPath="/Script/UMG.SlateAccessibleWidgetData'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XminAButton.SlateAccessibleWidgetData_1'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XminAButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'XminAButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_424'"
+   End Object
+   Begin Object Name="SlateAccessibleWidgetData_1" ExportPath="/Script/UMG.SlateAccessibleWidgetData'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XminAButton.SlateAccessibleWidgetData_1'"
+      bCanChildrenBeAccessible=False
+      AccessibleBehavior=Summary
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bOverrideAccessibleDefaults=True
+   bExpandedInDesigner=True
+   AccessibleWidgetData="/Script/UMG.SlateAccessibleWidgetData'SlateAccessibleWidgetData_1'"
+   DisplayLabel="XminAButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_424" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_424'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "60F69EAA4BCAE8C0D2186399D3272BD2", "+")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.Button Name="XminDButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XminDButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XminDButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XminDButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'XminDButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_3'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="XminDButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_3" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_3'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "270EAF6041DF20AEAD30B79ECE1E9A30", "-")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.Border Name="Border" ExportPath="/Script/UMG.Border'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border'"
+   Begin Object Class=/Script/UMG.BorderSlot Name="BorderSlot_1" ExportPath="/Script/UMG.BorderSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border.BorderSlot_1'"
+   End Object
+   Begin Object Name="BorderSlot_1" ExportPath="/Script/UMG.BorderSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border.BorderSlot_1'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      Parent="/Script/UMG.Border'Border'"
+      Content="/Script/UMG.TextBlock'XMinText'"
+   End Object
+   Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+   BrushColor=(R=0.000000,G=0.047059,B=0.200000,A=1.000000)
+   Slots(0)="/Script/UMG.BorderSlot'BorderSlot_1'"
+   bExpandedInDesigner=True
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="XMinText" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XMinText'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "C88CCDC44198ED7F17CECFA097E09784", "0")
+   MinDesiredWidth=30.000000
+   Font=(Size=12.000000)
+   Justification=Center
+   DisplayLabel="XMinText"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_243" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_243'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "28B19BEA44B0E6D5F876B4BA1A8DA645", "-")
+   ColorAndOpacity=(SpecifiedColor=(R=0.000000,G=0.000000,B=0.000000,A=1.000000))
+   Font=(Size=12.000000)
+End Object
+Begin Object Class=/Script/UMG.Border Name="Border_250" ExportPath="/Script/UMG.Border'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border_250'"
+   Begin Object Class=/Script/UMG.BorderSlot Name="BorderSlot_1" ExportPath="/Script/UMG.BorderSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border_250.BorderSlot_1'"
+   End Object
+   Begin Object Name="BorderSlot_1" ExportPath="/Script/UMG.BorderSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border_250.BorderSlot_1'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.Border'Border_250'"
+      Content="/Script/UMG.TextBlock'XMaxText'"
+   End Object
+   HorizontalAlignment=HAlign_Center
+   VerticalAlignment=VAlign_Center
+   Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+   BrushColor=(R=0.000000,G=0.047059,B=0.200000,A=1.000000)
+   Slots(0)="/Script/UMG.BorderSlot'BorderSlot_1'"
+   bExpandedInDesigner=True
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="XMaxText" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XMaxText'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "846F50FD4E09C222C25DB4B901D68835", "0")
+   MinDesiredWidth=30.000000
+   Font=(Size=12.000000)
+   Justification=Center
+   bExpandedInDesigner=True
+   DisplayLabel="XMaxText"
+End Object
+Begin Object Class=/Script/UMG.Button Name="XMaxDButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XMaxDButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XMaxDButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XMaxDButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'XMaxDButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_5'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="XMaxDButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_5" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_5'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "4AEFFCDB4386546C2D321AA4056985E0", "-")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.Button Name="XMaxAButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XMaxAButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XMaxAButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.XMaxAButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'XMaxAButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_4'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="XMaxAButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_4" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_4'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "FFA8478F439B8BACDFA9F7B9550948A7", "+")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.HorizontalBox Name="YBox" ExportPath="/Script/UMG.HorizontalBox'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox'"
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_10" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox.HorizontalBoxSlot_10'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_5" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox.HorizontalBoxSlot_5'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_7" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox.HorizontalBoxSlot_7'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_4" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox.HorizontalBoxSlot_4'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_12" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox.HorizontalBoxSlot_12'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_14" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox.HorizontalBoxSlot_14'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_16" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox.HorizontalBoxSlot_16'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox.HorizontalBoxSlot_0'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_10" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox.HorizontalBoxSlot_10'"
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'YBox'"
+      Content="/Script/UMG.Border'Border_1'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_5" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox.HorizontalBoxSlot_5'"
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'YBox'"
+      Content="/Script/UMG.Border'Border_2'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_7" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox.HorizontalBoxSlot_7'"
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'YBox'"
+      Content="/Script/UMG.Button'YMaxAButton'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_4" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox.HorizontalBoxSlot_4'"
+      Padding=(Left=5.000000,Right=5.000000)
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'YBox'"
+      Content="/Script/UMG.Button'YMaxDButton'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_12" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox.HorizontalBoxSlot_12'"
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'YBox'"
+      Content="/Script/UMG.Button'YminAButton'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_14" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox.HorizontalBoxSlot_14'"
+      Padding=(Left=5.000000,Right=5.000000)
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'YBox'"
+      Content="/Script/UMG.Button'YminDButton'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_16" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox.HorizontalBoxSlot_16'"
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'YBox'"
+      Content="/Script/UMG.TextBlock'TextBlock_6'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YBox.HorizontalBoxSlot_0'"
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'YBox'"
+      Content="/Script/UMG.TextBlock'TextBlock_9'"
+   End Object
+   Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_16'"
+   Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_12'"
+   Slots(2)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_14'"
+   Slots(3)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_10'"
+   Slots(4)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_0'"
+   Slots(5)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_5'"
+   Slots(6)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_4'"
+   Slots(7)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_7'"
+   bExpandedInDesigner=True
+   DisplayLabel="YBox"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_6" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_6'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "079202A5479A532D44F9BC9FD2888E98", "Y : ")
+   ColorAndOpacity=(SpecifiedColor=(R=0.000000,G=0.000000,B=0.000000,A=1.000000))
+   Font=(Size=12.000000)
+End Object
+Begin Object Class=/Script/UMG.Button Name="YminAButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YminAButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YminAButton.ButtonSlot_0'"
+   End Object
+   Begin Object Class=/Script/UMG.SlateAccessibleWidgetData Name="SlateAccessibleWidgetData_0" ExportPath="/Script/UMG.SlateAccessibleWidgetData'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YminAButton.SlateAccessibleWidgetData_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YminAButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'YminAButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_7'"
+   End Object
+   Begin Object Name="SlateAccessibleWidgetData_0" ExportPath="/Script/UMG.SlateAccessibleWidgetData'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YminAButton.SlateAccessibleWidgetData_0'"
+      bCanChildrenBeAccessible=False
+      AccessibleBehavior=Summary
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bOverrideAccessibleDefaults=True
+   bExpandedInDesigner=True
+   AccessibleWidgetData="/Script/UMG.SlateAccessibleWidgetData'SlateAccessibleWidgetData_0'"
+   DisplayLabel="YminAButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_7" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_7'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "C341B60D4007C1D2DD45A88E2709FE63", "+")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.Button Name="YminDButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YminDButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YminDButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YminDButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'YminDButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_8'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="YminDButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_8" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_8'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "B433E8484C9AEE4658E2CFB5D761C752", "-")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.Border Name="Border_1" ExportPath="/Script/UMG.Border'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border_1'"
+   Begin Object Class=/Script/UMG.BorderSlot Name="BorderSlot_1" ExportPath="/Script/UMG.BorderSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border_1.BorderSlot_1'"
+   End Object
+   Begin Object Name="BorderSlot_1" ExportPath="/Script/UMG.BorderSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border_1.BorderSlot_1'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      Parent="/Script/UMG.Border'Border_1'"
+      Content="/Script/UMG.TextBlock'YMinText'"
+   End Object
+   Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+   BrushColor=(R=0.000000,G=0.047059,B=0.200000,A=1.000000)
+   Slots(0)="/Script/UMG.BorderSlot'BorderSlot_1'"
+   bExpandedInDesigner=True
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="YMinText" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YMinText'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "D46BD7A64431CB26F10769849AF1A450", "0")
+   MinDesiredWidth=30.000000
+   Font=(Size=12.000000)
+   Justification=Center
+   DisplayLabel="YMinText"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_9" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_9'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "773B923F40DFFB3FB9F91CBA9FAF874B", "-")
+   ColorAndOpacity=(SpecifiedColor=(R=0.000000,G=0.000000,B=0.000000,A=1.000000))
+   Font=(Size=12.000000)
+End Object
+Begin Object Class=/Script/UMG.Border Name="Border_2" ExportPath="/Script/UMG.Border'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border_2'"
+   Begin Object Class=/Script/UMG.BorderSlot Name="BorderSlot_1" ExportPath="/Script/UMG.BorderSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border_2.BorderSlot_1'"
+   End Object
+   Begin Object Name="BorderSlot_1" ExportPath="/Script/UMG.BorderSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border_2.BorderSlot_1'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.Border'Border_2'"
+      Content="/Script/UMG.TextBlock'YMaxText'"
+   End Object
+   HorizontalAlignment=HAlign_Center
+   VerticalAlignment=VAlign_Center
+   Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+   BrushColor=(R=0.000000,G=0.047059,B=0.200000,A=1.000000)
+   Slots(0)="/Script/UMG.BorderSlot'BorderSlot_1'"
+   bExpandedInDesigner=True
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="YMaxText" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YMaxText'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "D89F4E684FCBA2C6B0353894144DF33F", "0")
+   MinDesiredWidth=30.000000
+   Font=(Size=12.000000)
+   Justification=Center
+   DisplayLabel="YMaxText"
+End Object
+Begin Object Class=/Script/UMG.Button Name="YMaxDButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YMaxDButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YMaxDButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YMaxDButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'YMaxDButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_10'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="YMaxDButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_10" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_10'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "01ADABE0478975173AA439968FA82D48", "-")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.Button Name="YMaxAButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YMaxAButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YMaxAButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.YMaxAButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'YMaxAButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_11'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="YMaxAButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_11" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_11'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "87BA184F4D402D34D07FE499D2885FDA", "+")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.HorizontalBox Name="ZBox" ExportPath="/Script/UMG.HorizontalBox'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox'"
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_10" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox.HorizontalBoxSlot_10'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_5" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox.HorizontalBoxSlot_5'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_7" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox.HorizontalBoxSlot_7'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_4" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox.HorizontalBoxSlot_4'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_12" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox.HorizontalBoxSlot_12'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_14" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox.HorizontalBoxSlot_14'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_16" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox.HorizontalBoxSlot_16'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox.HorizontalBoxSlot_0'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_10" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox.HorizontalBoxSlot_10'"
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'ZBox'"
+      Content="/Script/UMG.Border'Border_3'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_5" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox.HorizontalBoxSlot_5'"
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'ZBox'"
+      Content="/Script/UMG.Border'Border_4'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_7" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox.HorizontalBoxSlot_7'"
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'ZBox'"
+      Content="/Script/UMG.Button'ZMaxAButton'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_4" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox.HorizontalBoxSlot_4'"
+      Padding=(Left=5.000000,Right=5.000000)
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'ZBox'"
+      Content="/Script/UMG.Button'ZMaxDButton'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_12" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox.HorizontalBoxSlot_12'"
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'ZBox'"
+      Content="/Script/UMG.Button'ZminAButton'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_14" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox.HorizontalBoxSlot_14'"
+      Padding=(Left=5.000000,Right=5.000000)
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'ZBox'"
+      Content="/Script/UMG.Button'ZminDButton'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_16" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox.HorizontalBoxSlot_16'"
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'ZBox'"
+      Content="/Script/UMG.TextBlock'TextBlock_12'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZBox.HorizontalBoxSlot_0'"
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'ZBox'"
+      Content="/Script/UMG.TextBlock'TextBlock_15'"
+   End Object
+   Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_16'"
+   Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_12'"
+   Slots(2)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_14'"
+   Slots(3)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_10'"
+   Slots(4)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_0'"
+   Slots(5)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_5'"
+   Slots(6)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_4'"
+   Slots(7)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_7'"
+   bExpandedInDesigner=True
+   DisplayLabel="ZBox"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_12" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_12'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "E830C80A433C3B99FE0F9FA390BE30C9", "Z : ")
+   ColorAndOpacity=(SpecifiedColor=(R=0.000000,G=0.000000,B=0.000000,A=1.000000))
+   Font=(Size=12.000000)
+   bExpandedInDesigner=True
+End Object
+Begin Object Class=/Script/UMG.Button Name="ZminAButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZminAButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZminAButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZminAButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'ZminAButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_13'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="ZminAButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_13" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_13'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "43F7E29540EF1EACA38A2DAE558530BE", "+")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.Button Name="ZminDButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZminDButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZminDButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZminDButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'ZminDButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_14'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="ZminDButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_14" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_14'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "33EBB85C42359E8DAEC1B68CBBF00E83", "-")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.Border Name="Border_3" ExportPath="/Script/UMG.Border'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border_3'"
+   Begin Object Class=/Script/UMG.BorderSlot Name="BorderSlot_1" ExportPath="/Script/UMG.BorderSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border_3.BorderSlot_1'"
+   End Object
+   Begin Object Name="BorderSlot_1" ExportPath="/Script/UMG.BorderSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border_3.BorderSlot_1'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      Parent="/Script/UMG.Border'Border_3'"
+      Content="/Script/UMG.TextBlock'ZMinText'"
+   End Object
+   Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+   BrushColor=(R=0.000000,G=0.047059,B=0.200000,A=1.000000)
+   Slots(0)="/Script/UMG.BorderSlot'BorderSlot_1'"
+   bExpandedInDesigner=True
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="ZMinText" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZMinText'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "1FFD3BBE48B65BAC1725D392D1D3A827", "0")
+   MinDesiredWidth=30.000000
+   Font=(Size=12.000000)
+   Justification=Center
+   bExpandedInDesigner=True
+   DisplayLabel="ZMinText"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_15" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_15'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "75E4A50B4FC1C94E256BF8BE3A385E96", "-")
+   ColorAndOpacity=(SpecifiedColor=(R=0.000000,G=0.000000,B=0.000000,A=1.000000))
+   Font=(Size=12.000000)
+End Object
+Begin Object Class=/Script/UMG.Border Name="Border_4" ExportPath="/Script/UMG.Border'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border_4'"
+   Begin Object Class=/Script/UMG.BorderSlot Name="BorderSlot_1" ExportPath="/Script/UMG.BorderSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border_4.BorderSlot_1'"
+   End Object
+   Begin Object Name="BorderSlot_1" ExportPath="/Script/UMG.BorderSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border_4.BorderSlot_1'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.Border'Border_4'"
+      Content="/Script/UMG.TextBlock'ZMaxText'"
+   End Object
+   HorizontalAlignment=HAlign_Center
+   VerticalAlignment=VAlign_Center
+   Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+   BrushColor=(R=0.000000,G=0.047059,B=0.200000,A=1.000000)
+   Slots(0)="/Script/UMG.BorderSlot'BorderSlot_1'"
+   bExpandedInDesigner=True
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="ZMaxText" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZMaxText'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "99A131A94619883DBA55E8845F5BD441", "0")
+   MinDesiredWidth=30.000000
+   Font=(Size=12.000000)
+   Justification=Center
+   bExpandedInDesigner=True
+   DisplayLabel="ZMaxText"
+End Object
+Begin Object Class=/Script/UMG.Button Name="ZMaxDButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZMaxDButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZMaxDButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZMaxDButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'ZMaxDButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_16'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="ZMaxDButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_16" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_16'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "B91DD9E84B021A84947064816F473CCF", "-")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.Button Name="ZMaxAButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZMaxAButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZMaxAButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.ZMaxAButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'ZMaxAButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_17'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="ZMaxAButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_17" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_17'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "D59CF49040A124C0FAC813B9AF701989", "+")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.HorizontalBox Name="CoreZBox" ExportPath="/Script/UMG.HorizontalBox'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreZBox'"
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_10" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreZBox.HorizontalBoxSlot_10'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_16" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreZBox.HorizontalBoxSlot_16'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_5" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreZBox.HorizontalBoxSlot_5'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_10" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreZBox.HorizontalBoxSlot_10'"
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'CoreZBox'"
+      Content="/Script/UMG.Border'Border_11'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_16" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreZBox.HorizontalBoxSlot_16'"
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'CoreZBox'"
+      Content="/Script/UMG.TextBlock'TextBlock_33'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_5" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreZBox.HorizontalBoxSlot_5'"
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'CoreZBox'"
+      Content="/Script/UMG.HorizontalBox'HorizontalBox_0'"
+   End Object
+   Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_16'"
+   Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_10'"
+   Slots(2)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_5'"
+   bExpandedInDesigner=True
+   DisplayLabel="CoreZBox"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_33" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_33'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "F784961A4233F7EB1EC4C68CE6188C60", "CoreOffset : ")
+   ColorAndOpacity=(SpecifiedColor=(R=0.000000,G=0.000000,B=0.000000,A=1.000000))
+   Font=(Size=12.000000)
+   bExpandedInDesigner=True
+End Object
+Begin Object Class=/Script/UMG.Border Name="Border_11" ExportPath="/Script/UMG.Border'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.Border_11'"
+   Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+   BrushColor=(R=1.000000,G=0.498916,B=0.671752,A=1.000000)
+   bExpandedInDesigner=True
+End Object
+Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_0" ExportPath="/Script/UMG.HorizontalBox'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.HorizontalBox_0'"
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.HorizontalBox_0.HorizontalBoxSlot_2'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.HorizontalBox_0.HorizontalBoxSlot_1'"
+   End Object
+   Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.HorizontalBox_0.HorizontalBoxSlot_0'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.HorizontalBox_0.HorizontalBoxSlot_2'"
+      Padding=(Left=5.000000,Right=5.000000)
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'HorizontalBox_0'"
+      Content="/Script/UMG.VerticalBox'VerticalBox_0'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.HorizontalBox_0.HorizontalBoxSlot_1'"
+      Padding=(Left=5.000000,Right=5.000000)
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.HorizontalBox'HorizontalBox_0'"
+      Content="/Script/UMG.VerticalBox'VerticalBox_2'"
+   End Object
+   Begin Object Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.HorizontalBox_0.HorizontalBoxSlot_0'"
+      Padding=(Left=5.000000,Right=5.000000)
+      Parent="/Script/UMG.HorizontalBox'HorizontalBox_0'"
+      Content="/Script/UMG.VerticalBox'VerticalBox_1'"
+   End Object
+   Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_2'"
+   Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_1'"
+   Slots(2)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_0'"
+   bExpandedInDesigner=True
+End Object
+Begin Object Class=/Script/UMG.VerticalBox Name="VerticalBox_0" ExportPath="/Script/UMG.VerticalBox'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_0'"
+   Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_2" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_0.VerticalBoxSlot_2'"
+   End Object
+   Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_1" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_0.VerticalBoxSlot_1'"
+   End Object
+   Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_0" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_0.VerticalBoxSlot_0'"
+   End Object
+   Begin Object Name="VerticalBoxSlot_2" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_0.VerticalBoxSlot_2'"
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.VerticalBox'VerticalBox_0'"
+      Content="/Script/UMG.Button'CoreOffsetXAButton'"
+   End Object
+   Begin Object Name="VerticalBoxSlot_1" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_0.VerticalBoxSlot_1'"
+      Padding=(Left=5.000000,Right=5.000000)
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.VerticalBox'VerticalBox_0'"
+      Content="/Script/UMG.Button'CoreOffsetXDButton'"
+   End Object
+   Begin Object Name="VerticalBoxSlot_0" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_0.VerticalBoxSlot_0'"
+      Parent="/Script/UMG.VerticalBox'VerticalBox_0'"
+      Content="/Script/UMG.TextBlock'CoreXText'"
+   End Object
+   Slots(0)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_2'"
+   Slots(1)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_0'"
+   Slots(2)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_1'"
+   bExpandedInDesigner=True
+End Object
+Begin Object Class=/Script/UMG.Button Name="CoreOffsetXAButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetXAButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetXAButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetXAButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'CoreOffsetXAButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_26'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="CoreOffsetXAButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_26" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_26'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "6726342144AD9C6BA95E1ABB046BD8FD", "+")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="CoreXText" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreXText'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "60D1C7204C3347BBCEC5088D559E1CF3", "0")
+   ColorAndOpacity=(SpecifiedColor=(R=0.000000,G=0.000000,B=0.000000,A=1.000000))
+   MinDesiredWidth=30.000000
+   Font=(Size=12.000000)
+   Justification=Center
+   DisplayLabel="CoreXText"
+End Object
+Begin Object Class=/Script/UMG.Button Name="CoreOffsetXDButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetXDButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetXDButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetXDButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'CoreOffsetXDButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_25'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="CoreOffsetXDButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_25" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_25'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "C2E3BBFF4638DB48832821904EE8D0E8", "-")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.VerticalBox Name="VerticalBox_2" ExportPath="/Script/UMG.VerticalBox'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_2'"
+   Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_2" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_2.VerticalBoxSlot_2'"
+   End Object
+   Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_1" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_2.VerticalBoxSlot_1'"
+   End Object
+   Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_0" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_2.VerticalBoxSlot_0'"
+   End Object
+   Begin Object Name="VerticalBoxSlot_2" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_2.VerticalBoxSlot_2'"
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.VerticalBox'VerticalBox_2'"
+      Content="/Script/UMG.Button'CoreOffsetYAButton'"
+   End Object
+   Begin Object Name="VerticalBoxSlot_1" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_2.VerticalBoxSlot_1'"
+      Padding=(Left=5.000000,Right=5.000000)
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.VerticalBox'VerticalBox_2'"
+      Content="/Script/UMG.Button'CoreOffsetYDButton'"
+   End Object
+   Begin Object Name="VerticalBoxSlot_0" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_2.VerticalBoxSlot_0'"
+      Parent="/Script/UMG.VerticalBox'VerticalBox_2'"
+      Content="/Script/UMG.TextBlock'CoreYText'"
+   End Object
+   Slots(0)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_2'"
+   Slots(1)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_0'"
+   Slots(2)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_1'"
+   bExpandedInDesigner=True
+End Object
+Begin Object Class=/Script/UMG.Button Name="CoreOffsetYAButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetYAButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetYAButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetYAButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'CoreOffsetYAButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_32'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="CoreOffsetYAButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_32" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_32'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "A7D8451B43201A140FF84DB3E80A72DC", "+")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="CoreYText" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreYText'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "1F2608764278FC460AEE47984A351D1E", "0")
+   ColorAndOpacity=(SpecifiedColor=(R=0.000000,G=0.000000,B=0.000000,A=1.000000))
+   MinDesiredWidth=30.000000
+   Font=(Size=12.000000)
+   Justification=Center
+   DisplayLabel="CoreYText"
+End Object
+Begin Object Class=/Script/UMG.Button Name="CoreOffsetYDButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetYDButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetYDButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetYDButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      HorizontalAlignment=HAlign_Fill
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'CoreOffsetYDButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_31'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="CoreOffsetYDButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_31" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_31'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "20ABBF9342258A5DEB161585CA029102", "-")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.VerticalBox Name="VerticalBox_1" ExportPath="/Script/UMG.VerticalBox'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_1'"
+   Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_2" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_1.VerticalBoxSlot_2'"
+   End Object
+   Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_1" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_1.VerticalBoxSlot_1'"
+   End Object
+   Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_0" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_1.VerticalBoxSlot_0'"
+   End Object
+   Begin Object Name="VerticalBoxSlot_2" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_1.VerticalBoxSlot_2'"
+      HorizontalAlignment=HAlign_Center
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.VerticalBox'VerticalBox_1'"
+      Content="/Script/UMG.Button'CoreOffsetZAButton'"
+   End Object
+   Begin Object Name="VerticalBoxSlot_1" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_1.VerticalBoxSlot_1'"
+      Padding=(Left=5.000000,Right=5.000000)
+      VerticalAlignment=VAlign_Center
+      Parent="/Script/UMG.VerticalBox'VerticalBox_1'"
+      Content="/Script/UMG.Button'CoreOffsetZDButton'"
+   End Object
+   Begin Object Name="VerticalBoxSlot_0" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.VerticalBox_1.VerticalBoxSlot_0'"
+      Parent="/Script/UMG.VerticalBox'VerticalBox_1'"
+      Content="/Script/UMG.TextBlock'CoreZText'"
+   End Object
+   Slots(0)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_2'"
+   Slots(1)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_0'"
+   Slots(2)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_1'"
+   bExpandedInDesigner=True
+End Object
+Begin Object Class=/Script/UMG.Button Name="CoreOffsetZAButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetZAButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetZAButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetZAButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      VerticalAlignment=VAlign_Fill
+      Parent="/Script/UMG.Button'CoreOffsetZAButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_38'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="CoreOffsetZAButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_38" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_38'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "8193E9B549A8B56685D1A2B5207350C6", "+")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="CoreZText" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreZText'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "6BDB24AD4808B93D588E42B79F7113FF", "0")
+   ColorAndOpacity=(SpecifiedColor=(R=0.000000,G=0.000000,B=0.000000,A=1.000000))
+   MinDesiredWidth=30.000000
+   Font=(Size=12.000000)
+   Justification=Center
+   bExpandedInDesigner=True
+   DisplayLabel="CoreZText"
+End Object
+Begin Object Class=/Script/UMG.Button Name="CoreOffsetZDButton" ExportPath="/Script/UMG.Button'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetZDButton'"
+   Begin Object Class=/Script/UMG.ButtonSlot Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetZDButton.ButtonSlot_0'"
+   End Object
+   Begin Object Name="ButtonSlot_0" ExportPath="/Script/UMG.ButtonSlot'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.CoreOffsetZDButton.ButtonSlot_0'"
+      Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+      Parent="/Script/UMG.Button'CoreOffsetZDButton'"
+      Content="/Script/UMG.TextBlock'TextBlock_37'"
+   End Object
+   WidgetStyle=(Normal=(ImageSize=(X=20.000000,Y=20.000000)),NormalPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000),PressedPadding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000))
+   Slots(0)="/Script/UMG.ButtonSlot'ButtonSlot_0'"
+   bExpandedInDesigner=True
+   DisplayLabel="CoreOffsetZDButton"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_37" ExportPath="/Script/UMG.TextBlock'/Game/Resource/UI/BuildModeUI/WBP_BoundingBox.WBP_BoundingBox:WidgetTree.TextBlock_37'"
+   Text=NSLOCTEXT("[846046BC468B9103316CEA5BB94D1A9E]", "285B7A124686D843CE78978E8BAEA1ED", "-")
+   MinDesiredWidth=20.000000
+   Font=(Size=12.000000)
+   StrikeBrush=(DrawAs=Box)
+   Justification=Center
+End Object

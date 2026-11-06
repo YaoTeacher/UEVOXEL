@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "f95634331aefe95d",
+    "type": "split",
+    "children": [
+      {
+        "id": "05d510c120ef7c5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ba85393dcb40d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-设定/势力设定/总结.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "总结"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3f278f680efadcbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1452ea10b7d07ba2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "地图2.png"
+              },
+              "icon": "lucide-image",
+              "title": "地图2"
+            }
+          },
+          {
+            "id": "5b8e032cc14762de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-设定/城市设定/历史设定.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "历史设定"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d700c943155e4035",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bff9d5061a6965b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cd7f04eb4535238",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "aabe7d406a4c9544",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5ce4cc755f039980",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a33739556580388b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bab3bb952ea47925",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e02a207bee9f1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "52c212cd25344d51",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "9b8a05ee7ff82fdd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3bcbd988a53f2dc5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e496109578fe9976",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "c5cc95864ddb4834",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "copilot:Open Copilot Chat": false,
+      "nutstore-sync:开始同步": false,
+      "nutstore-sync:停止同步": false
+    }
+  },
+  "active": "5b8e032cc14762de",
+  "lastOpenFiles": [
+    "00-设定/其他关键设定/魔晶钢.md",
+    "00-设定/势力设定/教会.md",
+    "00-设定/势力设定/总结.md",
+    "00-设定/城市设定/历史设定.md",
+    "00-设定/城市设定/地图2.png",
+    "00-设定/城市设定/城市区划.md",
+    "00-设定/游戏运行设定/环境设定.md",
+    "设定文本/游戏运行设定/环境设定.md",
+    "设定文本/城市设定/城市区划.md",
+    "设定文本/城市设定/历史设定.md",
+    "设定文本/势力设定/教会.md",
+    "设定文本/势力设定/总结.md",
+    "设定文本/关键道具/魔晶钢.md",
+    "设定文本/玩法设定.md",
+    "参考资料/代码设计参考/网站.md",
+    "copilot/memory/Recent Conversations.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "地图2.png",
+    "设定文本/游戏运行设定",
+    "设定文本/城市设定",
+    "设定文本/势力设定",
+    "设定文本/关键道具",
+    "参考资料/代码设计参考",
+    "copilot/memory",
+    "copilot/copilot-custom-prompts",
+    "copilot/copilot-conversations",
+    "VoxelDesign/02-架构文档/系统架构",
+    "VoxelDesign/05-开发规范"
+  ]
+}
